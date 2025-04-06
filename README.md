@@ -1,13 +1,43 @@
-## Sistema de Controle de Clientes e Produtos
+🧾 Sistema de Controle de Clientes e Produtos
+Este é um sistema simples para gerenciamento de clientes e produtos, permitindo cadastro, edição e exclusão. O projeto está em constante evolução e será aprimorado à medida que novos conhecimentos forem adquiridos.
 
-## Funcionalidades Principais:
-- Cadastro de clientes e produtos.
-- Ediçao de produtos e clientes.
-- Exclusão de clientes e produtos.
+🚀 Funcionalidades
+✅ Cadastro de clientes
 
-## Estado Atual do Projeto:
-Ele ja apresenta quase todas as funcionalidades faltando apenas a funcionalidade de editar porem ele sera atualizado conforme eu for me aprofundando no assunto.
+✅ Cadastro de produtos
 
-## Tecnologias Utilizadas:
-- Linguagem de programação: HTML, JavaScript e CSS
-- Uma api disponibilizada pelo Professor Weberson voce pode acessa-la pelo link a seguir: https://github.com/WebersonRodrigues/backend-node-exemplo-memoria
+✅ Exclusão de clientes
+
+✅ Exclusão de produtos
+
+🔄 Edição de clientes (em desenvolvimento)
+
+🔄 Edição de produtos (em desenvolvimento)
+
+📌 Estado Atual
+O sistema já implementa as principais funcionalidades básicas de um CRUD.
+No momento, a edição de clientes e produtos ainda está em desenvolvimento, mas será implementada em breve.
+
+🛠️ Tecnologias Utilizadas
+HTML5
+
+CSS3
+
+JavaScript (puro)
+
+API REST (em memória)
+
+A API utilizada foi disponibilizada pelo professor Weberson Rodrigues e pode ser acessada através do seguinte repositório:
+🔗 backend-node-exemplo-memoria
+
+📁 Estrutura do Projeto
+bash
+Copiar
+Editar
+/css
+  └── style.css
+/js
+  └── script.js
+index.html
+📌 Observações
+Este projeto é voltado para fins educacionais e será atualizado conforme meu aprendizado na área de desenvolvimento web evoluir. Feedbacks são sempre bem-vindos!
